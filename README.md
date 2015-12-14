@@ -25,7 +25,7 @@ the 10-year period 1999-2008.
 - Have total emissions from PM_{2.5} decreased in the United States from 1999 to
   2008?
 
-  ![plot of chunk plot1.png](plot1.png) 
+  ![plot of chunk plot1](plot1.png) 
 
 - Have total emissions from PM_{2.5} decreased in the Baltimore City, Maryland
   from 1999 to 2008?
