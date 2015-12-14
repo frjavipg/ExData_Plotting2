@@ -37,21 +37,21 @@ the 10-year period 1999-2008.
   emissions from 1999-2008 for Baltimore City? Which have seen increases in
   emissions from 1999-2008? 
 
-  ![plot of chunk Plot3](Plot3.png) 
+  ![plot of chunk plot3](plot3.png) 
 
 - Across the United States, how have emissions from coal combustion-related
   sources changed from 1999-2008?
 
-   ![plot of chunk Plot4](Plot4.png) 
+   ![plot of chunk plot4](plot4.png) 
 
 - How have emissions from motor vehicle sources changed from 1999-2008 in
   Baltimore City?
 
-   ![plot of chunk Plot5](Plot5.png) 
+   ![plot of chunk plot5](plot5.png) 
 
 - Compare emissions from motor vehicle sources in Baltimore City with emissions
   from motor vehicle sources in Los Angeles County, California. Which city has
   seen greater changes over time in motor vehicle emissions?
 
-   ![plot of chunk Plot6](Plot6.png) 
+   ![plot of chunk plot6](plot6.png) 
 
